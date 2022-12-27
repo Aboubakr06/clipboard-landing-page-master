@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/testimonials-grid-section-rrnlUacP3_/)
+- Solution URL: (https://www.frontendmentor.io/solutions/clipboard-landing-page-eKyWVMkcT8)
 - Live Site URL: (https://dreamy-crumble-83a3ec.netlify.app/)
 
 ## My process
